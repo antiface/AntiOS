@@ -12,7 +12,7 @@ AntiOS - The Anti-Operating System.
 - A History Painting. You can visually "rewind" through your "use-history";
 - User stories + TimeMarks + "Restoration Points" / "Points of Restoration". Points-in-Time ("PiT" a.k.a. "PiT-stops" like "nodes");
 - You navigate through territories, through "Crackland: Land of Fissures" ("Frackland: Land of Fractures");
-- - AntiOS is a work-station with its own "work-graph";
+- AntiOS is a work-station with its own "work-graph";
 - Like a personal "Fetchnotes" Super fast and responsive;
 - The Art-Station, "Historiotheque". Navigating through the Historiosphere. Browsing through Historiomes & Antihistoriomes;
 - "Historiomics" is the scripting language. "Structures", "formations", "planes", all irregular shapes;
