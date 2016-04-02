@@ -1,4 +1,5 @@
 ### OS REPOSITORIES FOR INSPIRATION (IN PYTHON)
+* [jtauber/cleese: an operating system in Python](https://github.com/jtauber/cleese)
 * [vhpanisa/pythonix: Python/Minix based operating system](https://github.com/vhpanisa/pythonix)
 * [rlcorp/pos: Python Operating System](https://github.com/rlcorp/pos)
 * [matthoosier/os: Microkernel operating system](https://github.com/matthoosier/os)
@@ -49,4 +50,3 @@
 * [gokul-uf/QuickOS: Qwickos is an experimental language which will aid in learning and teaching Operating Systems. Developed as a part of a course in Programming Languages](https://github.com/gokul-uf/QuickOS)
 * [christophevg/rose: Rose is a Reactive Operating System Experiment for networked embedded devices, typically with limited resources, think Wireless Sensor Networks or the Internet of Things.](https://github.com/christophevg/rose)
 * [TheLukeGuy/tlgOS: Welcome to tlgOS, my first data-saving operating system! This is an awesome sequel to pyOS, which will soon be deleted from GitHub.](https://github.com/TheLukeGuy/tlgOS)
-* [aramase/Network-Security: Network security, authentication, security protocol design and analysis, security modeling, trusted computing, key management, program safety, intrusion detection, DDOS detection and mitigation, architecture/operating systems security, security policy, group systems, biometrics, web security.](https://github.com/aramase/Network-Security)
