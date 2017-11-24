@@ -1,7 +1,7 @@
 # AntiOS
 AntiOS - The Anti-Operating System.
 
-![ANTIOS INTERFACE] (https://historiotheque.files.wordpress.com/2016/03/antios_interface_07mar16a.jpg)
+![ANTIOS INTERFACE](https://historiotheque.files.wordpress.com/2016/03/antios_interface_07mar16a.jpg)
 
 ### FEATURES OF ANTIOS: codename "Antioch"
 - You see your history as a network of objects, actions taken, documents, etc.;
@@ -31,7 +31,6 @@ AntiOS - The Anti-Operating System.
     - B:DRIVE (BIN DRIVE) => LOG ALL DATA, STICK IT IN THE BINFILE;
     - INTERFACE => USER_INPUT(USER_INPUT) + LOG(STORE) IN BIN DRIVE;
 
-## [BACK TO INDEX OF REPOSITORIES] (https://github.com/antiface/Index)
+## [BACK TO INDEX OF REPOSITORIES](https://github.com/antiface/Index)
 
-[A.G. (c) 2016. ![A.G. (c) 2016. All Rights Reserved]
-(https://historiotheque.files.wordpress.com/2016/11/ag_signature_official_2015_50px_cropped.jpg) All Rights Reserved.](http://alexgagnon.com)
+[A.G. (c) 2016. ![A.G. (c) 2016. All Rights Reserved](https://historiotheque.files.wordpress.com/2016/11/ag_signature_official_2015_50px_cropped.jpg) All Rights Reserved.](http://alexgagnon.com)
