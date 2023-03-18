@@ -86,3 +86,5 @@
 * [pythonix/system.py at master · vhpanisa/pythonix](https://github.com/vhpanisa/pythonix/blob/master/kernel/system.py)
 * [pos/pos.py at master · rlcorp/pos](https://github.com/rlcorp/pos/blob/master/pos.py)
 * [os/terminal.c at master · matthoosier/os](https://github.com/matthoosier/os/blob/master/terminal.c)
+
+> ### THESE WORKS ARE NOT UNDER THE A.G. LICENSE.
