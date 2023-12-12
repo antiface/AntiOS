@@ -1,6 +1,8 @@
 # AntiOS
 AntiOS - The Anti-Operating System.
 
+v1.0.1 Stable Release [![DOI](https://zenodo.org/badge/43617013.svg)](https://zenodo.org/doi/10.5281/zenodo.10361799)
+
 ![ANTIOS INTERFACE](https://historiotheque.files.wordpress.com/2016/03/antios_interface_07mar16a.jpg)
 
 ![ANTIOS INTERFACE](https://historiotheque.files.wordpress.com/2023/03/screenshote.jpg) 
